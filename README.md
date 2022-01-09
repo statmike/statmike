@@ -1,8 +1,8 @@
 ## Hi, I'm Mike :wave:
 
-I am a lifetime learner with a background in statistics. My passion is for quantifying the patient experience in healthcare through better drug and device evaluation in research, development, clinical, and market settings. My career started with over a decade of clinical trial research covering drugs, devices, and combinations.  I focused on inferential methods for patient-reported outcomes, efficient trial design and conduct, and the application of Bayesian methods. The most recent years have built on this experience in a customer advisory role at SAS to help life science, care providers, and healthcare companies apply analytical techniques to understand better and predict the impact of care on the patient experience.
+I am a lifetime learner with a background in statistics. The common denominator for 11 years as a statistician, 8 years in statistical software and now a growing career in Google cloud is that I love to learn almost as much as I love to share what I learned to help others.
 
-I am passionate about computational engineering and work tirelessly to broaden my exposure. I also utilize a wide range of skills and tools to enable deeper inferential and predictive evaluations of health data in highly creative ways.
+I am passionate about computational engineering and work tirelessly to broaden my exposure. I utilize a wide range of skills and tools to enable deeper inferential and predictive evaluations in highly creative ways. I believe cloud computing is the radical change of our generation that gives us a chance to skip rethinking what we do and think new all over again.
 
 <a href="https://www.buymeacoffee.com/statmike" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
