@@ -16,7 +16,7 @@ What good is learning if I don't use it?  It is my responsibility to utlize what
 
 This is where I get opinionated.  As a society we truely advance as a whole, not as indivduals.  The input of learning is sharing.  By learning you are responsible for doing AND SHARING!!
 
-**All Together Now :book: :heavy_plus_sign: :hammer_and_wrench: :heavy_plus_sign: :open_hand: = :arrow_upper_right:**
+**All Together Now :book: :heavy_plus_sign: :hammer_and_wrench: :heavy_plus_sign: :open_hands: = :arrow_upper_right:**
 
 Always learning, always doing, always sharing.  And doing this in community means we are all inputing into the each others learning and doing by sharing.  
 
