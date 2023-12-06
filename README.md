@@ -10,7 +10,7 @@ The process of reading, listening, observing and THINKING!  To me learning is br
 
 **Do :hammer_and_wrench:**
 
-What is good is learning if I don't use it!  It is my responsibility to utlize what I learn in my daily work.  This should make me a more creative problem solver.  This makes for more efficient approaches and breakthrough thinking.
+What good is learning if I don't use it?  It is my responsibility to utlize what I learn in my daily work.  This should make me a more creative problem solver.  This makes for more efficient approaches and breakthrough thinking.  Image what happens if we do this together!
 
 **Share :open_hands:**
 
@@ -18,7 +18,9 @@ This is where I get opinionated.  As a society we truely advance as a whole, not
 
 **All Together Now :book: :heavy_plus_sign: :hammer_and_wrench: :heavy_plus_sign: :open_hand: = :arrow_upper_right:**
 
-Always learning, always doing, always sharing.  And doing this in community means we are all inputing into the each others learning and doing by sharing.
+Always learning, always doing, always sharing.  And doing this in community means we are all inputing into the each others learning and doing by sharing.  
+
+**Ultimately** each generation gets a faster start because we make it easier by sharing.
 
 <a href="https://www.buymeacoffee.com/statmike" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
