@@ -1,8 +1,24 @@
 ## Hi, I'm Mike :wave:
 
-I am a lifetime learner with a background in statistics. The common denominator for 11 years as a statistician, 8 years in statistical software and now a growing career in Google cloud is that I love to learn almost as much as I love to share what I learned to help others.
+I am a curious learner with a background in statistics. The common denominator for 11 years as a statistician, 8 years in statistical software and now a growing career in Google is that I love to learn almost as much as I love to share what I learned to help others.
 
-I am passionate about computational engineering and work tirelessly to broaden my exposure. I utilize a wide range of skills and tools to enable deeper inferential and predictive evaluations in highly creative ways. I believe cloud computing is the radical change of our generation that gives us a chance to skip rethinking what we do and think new all over again.
+This has lead to a life approach I call Learn > Do > Share.  Let me explain.
+
+**Learn :book:**
+
+The process of reading, listening, observing and THINKING!  To me learning is bringing ideas into my mind and then making sense of them - basically add context to expand my understanding.
+
+**Do :hammer_and_wrench:**
+
+What is good is learning if I don't use it!  It is my responsibility to utlize what I learn in my daily work.  This should make me a more creative problem solver.  This makes for more efficient approaches and breakthrough thinking.
+
+**Share :open_hands:**
+
+This is where I get opinionated.  As a society we truely advance as a whole, not as indivduals.  The input of learning is sharing.  By learning you are responsible for doing AND SHARING!!
+
+**All Together Now :book: :heavy_plus_sign: :hammer_and_wrench: :heavy_plus_sign: :open_hand: = :arrow_upper_right:**
+
+Always learning, always doing, always sharing.  And doing this in community means we are all inputing into the each others learning and doing by sharing.
 
 <a href="https://www.buymeacoffee.com/statmike" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
