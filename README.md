@@ -1,22 +1,38 @@
-## Hi, I'm Mike :wave:
+# Hi, I'm Mike :wave:
 
 I am a curious learner with a deep background in statistics. The common denominator for 11 years as a statistician, 8 years in statistical software and now a growing career in Google is that I love to learn *almost* as much as I love to share what I learned to help others.
 
 This has lead to an approach I call {Learn,  Do, Share}.  Let me explain.
 
-**Learn :book:**
+<div align="center">
+
+## Learn :book:
+
+</div>
 
 The process of reading, listening, observing and thinking!  To me learning is bringing ideas into my mind, soaking up knowledge. Then, most importantly, make sense of it all by adding context that expands my understanding.
 
-**Do :hammer_and_wrench:**
+<div align="center">
+
+## Do :hammer_and_wrench:
+
+</div>
 
 Learning becomes skill by using it.  It is my responsibility to utilize what I learn in my daily work.  This makes for more creative problem solving.  This creativity fosters efficient approaches and breakthrough thinking.  Image what happens if we do this together!
 
-**Share :open_hands:**
+<div align="center">
+
+## Share :open_hands:
+
+</div>
 
 This is where I get opinionated.  As a society we advance as a whole, not as individuals.  The input of learning is sharing by others.  By learning you are responsible for doing and sharing!!
 
-**All Together Now :book: :heavy_plus_sign: :hammer_and_wrench: :heavy_plus_sign: :open_hands: = :arrow_upper_right:**
+<div align="center">
+
+## All Together Now :book: :heavy_plus_sign: :hammer_and_wrench: :heavy_plus_sign: :open_hands: = :arrow_upper_right:
+
+</div>
 
 Always learning, always doing, always sharing.  And doing this in community means we are all inputing into the each others learning and doing by sharing.  
 
