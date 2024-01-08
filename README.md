@@ -18,7 +18,7 @@ The process of reading, listening, observing and thinking!  To me learning is br
 
 </div>
 
-Learning becomes skill by using it.  It is my responsibility to utilize what I learn in my daily work.  This makes for more creative problem solving.  This creativity fosters efficient approaches and breakthrough thinking.  Image what happens if we do this together!
+Learning becomes skill by using it.  It is my responsibility to utilize what I learn in my daily work.  This makes for more creative problem solving.  This creativity fosters efficient approaches and breakthrough thinking.  Imagine what happens if we do this together!
 
 <div align="center">
 
@@ -34,7 +34,7 @@ This is where I get opinionated.  As a society we advance as a whole, not as ind
 
 </div>
 
-Always learning, always doing, always sharing.  And doing this in community means we are all inputing into the each others learning and doing by sharing.  
+Always learning, always doing, always sharing.  And doing this in community means we are all inputing into each others learning and doing by sharing.  
 
 **Ultimately** each generation gets a faster start because we make it easier by sharing.
 
