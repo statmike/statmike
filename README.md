@@ -28,11 +28,9 @@ Empowering others and advancing our collective understanding.
 
 <div align="center">
 
-Let's connect and see what kind of awesome we can create together!
+_**Let's connect and see what kind of awesome we can create together!**_
 
-</div> 
-
-**Ultimately** each generation gets a faster start because we make it easier by sharing.
+</div>
 
 ## More Info
 
