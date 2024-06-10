@@ -1,8 +1,6 @@
 # Hi, I'm Mike :wave:
 
-I am a curious learner with a deep background in statistics. The common denominator for 11 years as a statistician, 8 years in statistical software and now a growing career in Google is that I love to learn *almost* as much as I love to share what I learned to help others.
-
-This has lead to an approach I call {Learn,  Do, Share}.  Let me explain.
+I'm a lifelong learner and seasoned statistician with a passion for turning knowledge into action. With over 20 years of experience, I've honed a "Learn, Do, Share" approach:
 
 <div align="center">
 
@@ -10,7 +8,7 @@ This has lead to an approach I call {Learn,  Do, Share}.  Let me explain.
 
 </div>
 
-The process of reading, listening, observing and thinking!  To me learning is bringing ideas into my mind, soaking up knowledge. Then, most importantly, make sense of it all by adding context that expands my understanding.
+Read, listen, observe, and soak it all in. Absorbing information and making meaningful connections.
 
 <div align="center">
 
@@ -18,7 +16,7 @@ The process of reading, listening, observing and thinking!  To me learning is br
 
 </div>
 
-Learning becomes skill by using it.  It is my responsibility to utilize what I learn in my daily work.  This makes for more creative problem solving.  This creativity fosters efficient approaches and breakthrough thinking.  Imagine what happens if we do this together!
+Applying knowledge to solve real-world challenges.
 
 <div align="center">
 
@@ -26,15 +24,13 @@ Learning becomes skill by using it.  It is my responsibility to utilize what I l
 
 </div>
 
-This is where I get opinionated.  As a society we advance as a whole, not as individuals.  The input of learning is sharing by others.  By learning you are responsible for doing and sharing!!
+Empowering others and advancing our collective understanding.
 
 <div align="center">
 
-## All Together Now :book: :heavy_plus_sign: :hammer_and_wrench: :heavy_plus_sign: :open_hands: = :arrow_upper_right:
+Let's connect and see what kind of awesome we can create together!
 
-</div>
-
-Always learning, always doing, always sharing.  And doing this in community means we are all inputing into each others learning and doing by sharing.  
+</div> 
 
 **Ultimately** each generation gets a faster start because we make it easier by sharing.
 
